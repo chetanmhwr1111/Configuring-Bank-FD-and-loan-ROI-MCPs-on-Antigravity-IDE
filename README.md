@@ -45,9 +45,9 @@ Edit your local configuration file (e.g., `C:\Users\<Your-Username>\.gemini\conf
 {
   "mcpServers": {
     "india-bank-rates": {
-      "command": "E:\\Passion\\Upskilling\\india_bank_rates_mcp\\.venv\\Scripts\\python.exe",
+      "command": "\\.venv\\Scripts\\python.exe",
       "args": ["-m", "india_bank_rates_mcp.server"],
-      "cwd": "E:\\Passion\\Upskilling\\india_bank_rates_mcp"
+      "cwd": project_directory
     }
   }
 }
