@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+india_bank_rates_mcp/__init__.py
+india_bank_rates_mcp/server.py
+india_bank_rates_mcp/sources.py
+india_bank_rates_mcp.egg-info/PKG-INFO
+india_bank_rates_mcp.egg-info/SOURCES.txt
+india_bank_rates_mcp.egg-info/dependency_links.txt
+india_bank_rates_mcp.egg-info/entry_points.txt
+india_bank_rates_mcp.egg-info/requires.txt
+india_bank_rates_mcp.egg-info/top_level.txt

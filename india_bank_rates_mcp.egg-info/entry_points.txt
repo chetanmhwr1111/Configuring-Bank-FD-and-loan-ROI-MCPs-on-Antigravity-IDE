@@ -1,0 +1,2 @@
+[console_scripts]
+india-bank-rates-mcp = india_bank_rates_mcp.server:main
