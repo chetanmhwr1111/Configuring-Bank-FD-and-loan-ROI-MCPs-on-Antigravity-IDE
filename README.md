@@ -2,6 +2,8 @@
 
 A Model Context Protocol (MCP) server designed for **Antigravity IDE** that empowers LLMs to dynamically fetch, parse, and analyze real-time interest rates and central bank policies directly from official banking portals.
 
+https://youtu.be/DvhJ6SyGBmc 
+
 ## 🛠️ Core Tools Provided
 * **`get_fd_rates` / `get_loan_rates`**: Fetches raw table matrices and filters targeted deposit yields or lending benchmarks (MCLR, RLLR, Home, Car) based on custom tenures or asset profiles.
 * **`compare_fd_rates` / `compare_loan_rates`**: Runs comparative analytics across multiple portals, automatically sorting the highest potential returns based on parsed yield percentages.
